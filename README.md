@@ -1,7 +1,8 @@
 # dio-flashlight
 
 Desafio dio: Construindo um app usando o sensor de movimento com react native
-
+![image](https://github.com/GilvaniaMoreira/flashlight/blob/master/images/WhatsApp%20Image%202022-05-25%20at%2014.20.32.jpeg)
+![image](https://github.com/GilvaniaMoreira/flashlight/blob/master/images/WhatsApp%20Image%202022-05-25%20at%2014.20.51.jpeg)
 
 
 ## Conteúdo
